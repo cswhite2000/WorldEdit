@@ -620,6 +620,7 @@ public enum BlockType {
         canPassThrough.add(BlockID.DOUBLE_PLANT);
         canPassThrough.add(BlockID.STANDING_BANNER);
         canPassThrough.add(BlockID.WALL_BANNER);
+        canPassThrough.add(BlockID.PISTON_MOVING_PIECE);
     }
 
 
